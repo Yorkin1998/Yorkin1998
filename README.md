@@ -5,8 +5,10 @@ I'm Yorkin Abdukakhkhorov
 
 
 
-
 <ul>
+<li>
+<p><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">📕</g-emoji> Studied in China Ningbo University</p>
+</li>
 <li>
 <p><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Coding With: Python,C++,C#</p>
 </li>
@@ -28,6 +30,10 @@ I'm Yorkin Abdukakhkhorov
 	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/7295fa164a66e50ebc489533135b855e7e8d68c55c87a113741d2e29d9065396/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f646f636b65722e706e67"><img src="https://camo.githubusercontent.com/7295fa164a66e50ebc489533135b855e7e8d68c55c87a113741d2e29d9065396/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f646f636b65722e706e67" data-canonical-src="https://img.icons8.com/color/96/000000/docker.png" style="max-width:100%;"></a>
 </p>
 <hr>
+<p>  &nbsp;&nbsp;&nbsp;&nbsp;  👨‍💻 Currently work at </p>
+<a class="navbar-brand" href="https://www.alphasoft.uz/" style="width: 150px">
+            <img width="300" height="85" src="https://www.alphasoft.uz/images/logo.svg" alt="logo" class="logo-scrolled">
+          </a>
 <!--
 **Yorkin1998/Yorkin1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
