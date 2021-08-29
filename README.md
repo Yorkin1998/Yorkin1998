@@ -10,7 +10,7 @@ I'm Yorkin Abdukakhkhorov
 <p><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">📕</g-emoji> Studied in China Ningbo University</p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Coding With: Python,C++,C#</p>
+<p><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> Coding With: Python,C++,C</p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Web Development Technologies in Backend Python/Django, C++ and Databases (PostgreSql).</p>
